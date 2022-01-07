@@ -1,0 +1,16 @@
+﻿@model List<Child> 
+
+@foreach(Child c in Model) 
+{
+
+
+
+<a href="https://www.reddit.com/@c.data.permalink">
+<h2>@c.data.title</h2>
+
+<img src="@c.data.thumbnail" />
+    <p>Up Votes: @c.data.ups</p>
+    <p>Down Votes: @c.data.downs</p>
+</a>
+
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4cj1WmTFYaer8f021AdLc9dxjrwgZdqwxXLsM+Y0adrhIG+gDNpqD1AJcSQZTfHH+8voHnseoVZ9CBseRSW/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\areddy1\\source\\repos\\RedditAPI\\RedditAPI\\RedditAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\areddy1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
